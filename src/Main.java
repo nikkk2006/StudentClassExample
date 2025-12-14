@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         ArrayList<Student> listOfStudents = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
         int choice;
